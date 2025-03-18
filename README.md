@@ -6,4 +6,8 @@ Python 関連のメモ。
 > 本ファイルは Markdown のフォーマットに従っています。
 
 # 詳細
-
+```
+Python_material/
+├── matplotlib
+└── numpy
+```
