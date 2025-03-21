@@ -9,5 +9,6 @@ Python 関連のメモ。
 ```
 Python_material/
 ├── matplotlib
-└── numpy
+├── numpy
+└── utilities
 ```
