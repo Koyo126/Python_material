@@ -60,7 +60,7 @@ class FileEditorApp:
     """
     filepath = filedialog.askopenfilename(
       title="ファイルを開く",
-      filetypes=[("テキストファイル", "*.txt"), ("すべてのファイル", "*.*")]
+      filetypes=[("テキストファイル", "*.txt"), ("すべてのファイル", "*")]
     )
     if filepath:
       try:
